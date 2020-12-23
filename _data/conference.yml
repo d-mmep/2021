@@ -1,11 +1,10 @@
-full_title: Fifth ACM/IEEE Workshop on Hot Topics in Web Systems and Technologies
-short_title: Hotweb 2017
-email: hotweb2017@gmail.com
+full_title: First International Workshop on Distributed Multimedia Event Processing
+short_title: D-MMEP 2021
+email: dmmepchair@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  HotWeb is a forum bringing together researchers and practitioners interested 
-  in the design, implementation, and evaluation of Internet systems and applications. 
-location: San Jose, CA, 2017
-date: October 14, 2017
+  The objective of this workshop is to present and discuss recent trends in multimedia event processing.
+location: Washington DC, USA
+date: July 7 (Tentative), 2021
 logo_path: ./assets/images/logo2017.jpg
 slideshow:
   - id: 0
@@ -67,7 +66,7 @@ navbar:
   - id: 6
     label: Registration
     path: /registration.html
-    visible: True
+    visible: False
 deadlines:
   - date: 2017-7-6
     timezone: 9PM PDT
