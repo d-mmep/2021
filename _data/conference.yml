@@ -91,12 +91,10 @@ deadlines:
     text: D-MMEP 2021 Workshop
     pass_due: False
 news:
-  - date: 2017-10-14
-    text: Workshop has been successfully held
-  - date: 2017-05-12
-    text: Submission site online
+  - date: 2020-12-18
+    text: D-MMEP Workshop Accepted at ICDCS 2021
   - date: 2017-03-08
-    text: Website online
+    text: D-MMEP Website online
 sponsors:
   - name: ACM
     logo_path: ./assets/images/sponsors/acm-logo.png
