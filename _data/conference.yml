@@ -17,8 +17,8 @@ slideshow:
   - id: 1
     image_path: ./assets/images/slideshow/image1.jpg
     description: Washington
-    photographer_name: NA
-    photographer_link: https://www.virginholidays.co.uk/destinations/usa/washington-dc-holidays
+    photographer_name: Montogmery
+    photographer_link: https://visitmontgomery.com/blog/experts-advice/history-of-the-cherry-blossoms-of-washington-dc/
   - id: 2
     image_path: ./assets/images/slideshow/image2.jpg
     description: White House
@@ -27,7 +27,7 @@ slideshow:
   - id: 3
     image_path: ./assets/images/slideshow/image3.jpg
     description: Washington Downtown
-    photographer_name: NA
+    photographer_name: DCcirculator
     photographer_link: https://www.dccirculator.com/explore/where-we-go/downtown/
   - id: 4
     image_path: ./assets/images/slideshow/image4.jpg
@@ -38,7 +38,7 @@ slideshow:
     image_path: ./assets/images/slideshow/image5.jpg
     description: Washington Downtown
     photographer_name: NA
-    photographer_link: NA
+    photographer_link: https://www.dwellus.com/community/washington-d-c/
 navbar:
   - id: 0
     label: Home
