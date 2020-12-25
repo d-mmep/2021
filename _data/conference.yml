@@ -106,7 +106,7 @@ sponsors:
     logo_path: ./assets/images/sponsors/ieee-logo.gif
 social_media:
   facebook_link:
-  twitter_link: 
+  twitter_link: https://twitter.com/SIT_NUIGalway
 program_chair:
   - name: Edward Curry
     org: National University of Ireland Galway (Ireland)
