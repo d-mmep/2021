@@ -45,7 +45,7 @@ slide_id: 0
 
             <!--######### Keynote Speakers ##########-->
             <div class="card">
-                <div class="card-header text-white bg-inverse"><strong>Keynote Spekaers</strong></div>
+                <div class="card-header text-white bg-inverse"><strong>Keynote Speakers</strong></div>
                 {% if site.data.conference.program_chair %}
                 {% for committee in site.data.conference.keynote_speakers %}
                  <div class="card-block bg-faded committee">
@@ -79,15 +79,16 @@ slide_id: 0
                     <p class="card-subtitle text-muted" style="font-size: 90%;">TBA</p>
                 </div>               
                 {% endif %}
+            </div>
+
+            <!--####################################-->
+
             <!--######### important dates ##########-->
             {% include card-important-dates.html %}
             <!--####################################-->
             <!--######### news #####################-->
             {% include card-news.html %}
             <!--####################################-->
-            </div>
-            <!--####################################-->
-
     </div>
 </div>
 
