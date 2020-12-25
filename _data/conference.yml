@@ -96,8 +96,12 @@ news:
   - date: 2017-03-08
     text: D-MMEP Website online
 sponsors:
-  - name: ACM
-    logo_path: ./assets/images/sponsors/acm-logo.png
+  - name: Insight
+    logo_path: ./assets/images/sponsors/insight logo.jpg
+  - name: DSI
+    logo_path: ./assets/images/sponsors/DSI_logo.png
+  - name: NUI Galway
+    logo_path: ./assets/images/sponsors/logo_nuigalway.png
   - name: IEEE
     logo_path: ./assets/images/sponsors/ieee-logo.gif
 social_media:
