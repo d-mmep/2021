@@ -10,35 +10,35 @@ logo_path: ./assets/images/conf_logo.png
 slideshow:
   - id: 0
     image_path: ./assets/images/slideshow/image0.jpg
-    description: San Jose night scene
-    photographer_name: Mike Boening
-    photographer_link: https://www.flickr.com/photos/memoriesbymike/
+    description: Washington Monument
+    photographer_name: Sean Pavone
+    photographer_link: https://aleteia.org/2019/09/22/the-washington-monument-and-the-stone-that-was-rejected/
     active: True
   - id: 1
     image_path: ./assets/images/slideshow/image1.jpg
-    description: San Jose Museum of Art
-    photographer_name: Bryan Nabong
-    photographer_link: https://www.flickr.com/photos/bongarang/
+    description: Washington
+    photographer_name: NA
+    photographer_link: https://www.virginholidays.co.uk/destinations/usa/washington-dc-holidays
   - id: 2
     image_path: ./assets/images/slideshow/image2.jpg
-    description: San Jose State University
-    photographer_name: David Sawyer
-    photographer_link: https://www.flickr.com/photos/18702768@N04/
+    description: White House
+    photographer_name: Ted Eytan
+    photographer_link: https://www.flickr.com/photos/22526649@N03/42747314185/
   - id: 3
     image_path: ./assets/images/slideshow/image3.jpg
-    description: Cathedral Basilica of St. Joseph
-    photographer_name: Patricia Montes Gregory
-    photographer_link: https://www.flickr.com/photos/32159045@N02/
+    description: Washington Downtown
+    photographer_name: NA
+    photographer_link: https://www.dccirculator.com/explore/where-we-go/downtown/
   - id: 4
     image_path: ./assets/images/slideshow/image4.jpg
-    description: Winchester Mystery House
-    photographer_name: Pomax
-    photographer_link: https://www.flickr.com/photos/pomax/
+    description: GeorgeTown
+    photographer_name: Orhan Cam
+    photographer_link: ShutterStock
   - id: 5
     image_path: ./assets/images/slideshow/image5.jpg
-    description: Rose Garden Branch Library
-    photographer_name: John Menard
-    photographer_link: https://www.flickr.com/photos/jmenard48/
+    description: Washington Downtown
+    photographer_name: NA
+    photographer_link: NA
 navbar:
   - id: 0
     label: Home
