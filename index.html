@@ -42,12 +42,9 @@ slide_id: 0
 
     </div>
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-            <!--######### important dates ##########-->
-            {% include card-important-dates.html %}
-            <!--####################################-->
-            <!--######### Program Chair ##########-->
+            <!--######### Organizing Committee ##########-->
             <div class="card">
-                <div class="card-header text-white bg-inverse"><strong>Program Chairs</strong></div>
+                <div class="card-header text-white bg-inverse"><strong>Organizing Committee</strong></div>
                 {% if site.data.conference.program_chair %}
                 {% for committee in site.data.conference.program_chair %}
                  <div class="card-block bg-faded committee">
@@ -64,6 +61,10 @@ slide_id: 0
                 {% endif %}
             </div>
             <!--####################################-->
+            <!--######### important dates ##########-->
+            {% include card-important-dates.html %}
+            <!--####################################-->
+
             <!--######### news #####################-->
             {% include card-news.html %}
             <!--####################################-->
