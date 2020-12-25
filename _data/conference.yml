@@ -97,7 +97,7 @@ news:
     text: D-MMEP Website online
 sponsors:
   - name: Insight
-    logo_path: ./assets/images/sponsors/insight logo.jpg
+    logo_path: ./assets/images/sponsors/insight_logo.jpg
   - name: DSI
     logo_path: ./assets/images/sponsors/DSI_logo.png
   - name: NUI Galway
