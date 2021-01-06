@@ -112,7 +112,8 @@ program_chair:
     org: National University of Ireland Galway (Ireland)
     homepage: http://edwardcurry.org/
   - name: Alexander Artikis
-    org: University of Piraeus (Greece), National Centre for Scientific Research (NCSR) Demokritos, Greece
+    org: University of Piraeus (Greece)
+    org: National Centre for Scientific Research (NCSR) Demokritos, Greece
     homepage: https://users.iit.demokritos.gr/~a.artikis/
   - name: Piyush Yadav
     org: National University of Ireland Galway (Ireland)
