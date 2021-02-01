@@ -132,6 +132,57 @@ technical_program_committees:
   - name: Amin Anjomshoaa 
     org: Lero Irish Software Research Centre (NUIG), Ireland 
     homepage: https://www.lero.ie/people/amin-anjomshoaa
+  - name: Davide Frey 
+    org: Inria, France 
+    homepage: http://people.irisa.fr/Davide.Frey/
+  - name: Luis Rodrigues 
+    org: Universidade de Lisboa, Portugal 
+    homepage: https://www.gsd.inesc-id.pt/~ler/
+  - name: Luis Rodrigues 
+    org: Universidade de Lisboa, Portugal 
+    homepage: https://www.gsd.inesc-id.pt/~ler/
+  - name: Christopher Mutschler
+    org: Fraunhofer Institute for Integrated Circuits IIS, Germany
+    homepage: https://cmutschler.de/
+  - name: Avigdor Gal
+    org: Technion – Israel Institute of Technology, Hafia, Israel
+    homepage: https://agp.iem.technion.ac.il/avigal/
+  - name: Etienne Rivière
+    org: Université Catholique de Louvain, Belgium
+    homepage: https://cloudlargescale-uclouvain.github.io/Etienne_Riviere
+  - name: Jayavardhana Gubbi
+    org: TCS Research, India
+    homepage: https://www.tcs.com/reimagining-research/authors/jayavardhana-gubbi
+  - name: Thomas  Plagemann
+    org: University of Oslo, Norway
+    homepage: https://www.mn.uio.no/ifi/personer/vit/plageman/index.html
+  - name: Martin Hirzel
+    org: IBM T.J. Watson Research Center, NY, USA
+    homepage: http://hirzels.com/martin/
+  - name: Alessandro Margara
+    org: Politecnico di Milano, Italy
+    homepage: https://margara.faculty.polimi.it/
+  - name: Opher Etzion
+    org: Yezreel Valley College, Israel
+    homepage: https://en.wikipedia.org/wiki/Opher_Etzion
+  - name: Peter M. Fischer
+    org: Universität Augsburg, Institut für Informatik, Germany
+    homepage: https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/dbis/team/fischer/
+  - name: Leo Yu Zhang
+    org: Deakin University, Australia
+    homepage: https://sites.google.com/site/leoyuzhang/
+  - name: Boris Koldehofe
+    org: TU Darmstadt, Germany
+    homepage: https://www.kom.tu-darmstadt.de/kom-multimedia-communications-lab/people/staff/boris-koldehofe/
+  - name: Nalini  Venkatasubramanian
+    org: University of California, Irvine, USA
+    homepage: https://nalini.ics.uci.edu/
+  - name: Gabriele  Mencagli
+    org: University of Pisa, Italy
+    homepage: http://pages.di.unipi.it/mencagli/
+  - name: David  Eyers
+    org: University of Otago, New Zealand
+    homepage: https://www.otago.ac.nz/computer-science/people/David_Eyers.html
 webmaster:
   - name: Dhaval Salwala
     org: National University of Ireland Galway(NUIG)
